@@ -1,7 +1,7 @@
 # QuizProject
 This GitHub project is a quiz website that presents users with 10 random questions out of a pool of 25 questions. Each question has three multiple-choice answers, and the user must select the correct one to earn points. The website keeps track of the user's score and provides feedback after each answer. The project utilizes JavaScript and HTML/CSS for the frontend, and it can be easily customized by modifying the questions array to fit the user's needs.
 
-**Version 1.0 :** 
+<h3>**Version 1.0 :**</h3>
 
 This is a preview of the version 1.0
 

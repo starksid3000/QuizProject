@@ -23,6 +23,4 @@ User can see their score on top
 
 5. Design and layout: The website has a very basic design and layout, which could impact user engagement and make the game less visually appealing. Consider improving the design and layout of the website to make it more attractive and user-friendly.
 
-6. UI : User interface is not attractive and boring.
-
-7. Loop : There is no end of the quiz. when user tick wrong option then quiz restart itself again.
+6. Loop : There is no end of the quiz. when user tick wrong option then quiz restart itself again.

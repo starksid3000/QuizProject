@@ -1,0 +1,92 @@
+[
+    {
+      "questionText": "What is the capital of Afghanistan?",
+      "options": ["Kabul", "Islamabad", "Tehran", "Dubai"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the largest country in the world?",
+      "options": ["Russia", "Canada", "China", "USA"],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is a data structure?",
+      "options": [
+        "A way of organizing and storing data",
+        "A programming language",
+        "A type of algorithm",
+        "A type of database"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is a callback function in JavaScript?",
+      "options": [
+        "A function that is passed as an argument to another function",
+        "A function that is executed when a button is clicked",
+        "A function that returns a value",
+        "A function that is used to declare a variable"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is inheritance in object-oriented programming?",
+      "options": [
+        "A mechanism by which one class is able to inherit properties and methods from another class",
+        "A way of creating new instances of an object",
+        "A type of data structure",
+        "A way of looping through an array"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is a stack data structure?",
+      "options": [
+        "A last-in-first-out (LIFO) data structure",
+        "A first-in-first-out (FIFO) data structure",
+        "A binary search tree",
+        "A hash table"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is the difference between null and undefined in JavaScript?",
+      "options": [
+        "Null is an assignment value that represents no value or no object; undefined means a variable has been declared but has not yet been assigned a value",
+        "Null is a built-in function in JavaScript; undefined is a reserved keyword",
+        "Null is used to terminate a loop; undefined is used to declare a new variable",
+        "Null and undefined are the same thing"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is polymorphism in object-oriented programming?",
+      "options": [
+        "A concept by which objects of different classes can be treated as if they are objects of the same class",
+        "A way of creating new instances of an object",
+        "A type of data structure",
+        "A way of looping through an array"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is a queue data structure?",
+      "options": [
+        "A first-in-first-out (FIFO) data structure",
+        "A last-in-first-out (LIFO) data structure",
+        "A binary search tree",
+        "A hash table"
+      ],
+      "correctOptionIndex": 0
+    },
+    {
+      "questionText": "What is a closure in JavaScript?",
+      "options": [
+        "A function that has access to variables in its outer scope, even after the outer function has returned",
+        "A way of declaring a new variable",
+        "A type of loop",
+        "A type of data structure"
+      ],
+      "correctOptionIndex": 0
+    }
+]

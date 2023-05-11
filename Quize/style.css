@@ -8,14 +8,13 @@
 }
 
 body{
-    /* background-color: #b5d458; */
-    background-image: url("3.jpg");
+   
+    background: url("I.jpg");
+    width: 100%;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-/* 
-::selection{
-    color: #a4aa22;
-    background-color: #b5d458;
-} */
 
 .start_btn,
 .info_box,
@@ -39,21 +38,12 @@ body{
 }
 
 .start_btn button{
-    /* font-size: 25px;
-    font-weight: 500;
-    color: #007bff;
-    padding: 15px 30px;
-    outline: none;
-    border: none;
-    border-radius: 5px;
-    background: #fff;
-    cursor: pointer; */
-    /* BACKGROUND MOVE */
 
     font-size: 16px;
     font-weight: 200;
     letter-spacing: 1px;
     padding: 13px 20px 13px;
+    display: inline-block;
     outline: 0;
     border: 1px solid black;
     cursor: pointer;
@@ -62,11 +52,13 @@ body{
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+
+    
   }
   
   .start_btn:after {
     content: "";
-    background-color:#ebf534;
+    background-color:#6879ec;
     width: 100%;
     z-index: -1;
     position: absolute;
@@ -81,7 +73,7 @@ body{
     left: 0px;
   }
   
-  @media (min-widtwh: 768px) {
+  @media (min-widtwh: 579px) {
     .start_btn {
       padding: 13px 50px 13px;
     }

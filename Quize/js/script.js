@@ -1,4 +1,4 @@
-//selecting all required elements
+                 //selecting all required elements
 const start_btn = document.querySelector(".start_btn button");
 const info_box = document.querySelector(".info_box");
 const exit_btn = info_box.querySelector(".buttons .quit");
@@ -91,6 +91,13 @@ next_btn.onclick = ()=>{
 // getting questions and options from array
 function showQuetions(index){
     const que_text = document.querySelector(".que_text");
+    let randomQuestions = getRandomQuestions(questions, 10);
+
+    // Helper function to select random questions
+function getRandomQuestions(questionsArray, count) {
+    let shuffledQuestions = questionsArray.sort(() => Math.random() - 0.5);
+    return shuffledQuestions.slice(0, count);
+  }
 
     //creating a new span and div tag for question and option and passing the value using array index
     let que_tag = '<span>'+ questions[index].numb + ". " + questions[index].question +'</span>';

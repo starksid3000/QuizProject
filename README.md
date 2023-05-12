@@ -41,6 +41,7 @@ Figure 1.6 final page with score
 
 **Corns of this version:**
 1. It's a static website 
-2. 
+2. no backend
+
 Version 3
 In this version 3 frontend application sends a request to the backend API to fetch the quiz data. The backend API retrieves the quiz data from a database and the quiz data is returned from the backend API as a response to the frontend application. The frontend application receives the quiz data, including questions, options, and correct answers, here JavaScript code in the frontend processes the received quiz data and displays the questions and options to the user. The user selects an option, and the frontend code handles the user's answer, calculates the score, and tracks the progress. Once the user completes the quiz or runs out of time, the score is sent back to the backend API for further processing or storage.

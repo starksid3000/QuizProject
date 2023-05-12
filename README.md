@@ -45,3 +45,7 @@ Figure 1.6 final page with score
 
 Version 3
 In this version 3 frontend application sends a request to the backend API to fetch the quiz data. The backend API retrieves the quiz data from a database and the quiz data is returned from the backend API as a response to the frontend application. The frontend application receives the quiz data, including questions, options, and correct answers, here JavaScript code in the frontend processes the received quiz data and displays the questions and options to the user. The user selects an option, and the frontend code handles the user's answer, calculates the score, and tracks the progress. Once the user completes the quiz or runs out of time, the score is sent back to the backend API for further processing or storage.
+
+![WhatsApp Image 2023-05-12 at 18 06 17](https://github.com/starksid3000/QuizProject/assets/55691960/6efa2606-f371-40e5-8eb1-305f36343e0e)
+![WhatsApp Image 2023-05-12 at 19 01 32](https://github.com/starksid3000/QuizProject/assets/55691960/77c64b90-84ff-4c5d-801b-d29afece3d93)
+
